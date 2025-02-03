@@ -53,7 +53,7 @@
 
 ## 버스 한 대가 무정차 통과할 때 교통 흐름에 어떤 영향을 미칠까?  
 이를 알아보기 위해 SUMO 시뮬레이터를 이용했습니다.  
-XML 파일로 양재역의 기본적인 교통 흐름을 구현하였고, 파이썬의 TRACI를 이용해 원하는 요소들을 동족으로 변화시켜가며 분석할 수 있습니다.  
+XML 파일로 양재역의 기본적인 교통 흐름을 구현하였고, 파이썬의 TRACI를적으로 변화시켜가며 분석할 수 있습니다.  
 기본 TRACI의 함수들은 약간 불편한 감이 있어 module을 만들어 사용했습니다.  
 아래는 SUMO 시뮬레이터 작동 영상입니다.(사진을 클릭하면 이동합니다)  
 [![스크린샷 2025-02-03 204348](https://github.com/user-attachments/assets/247ce295-f069-45eb-a7ce-00ae523542a5)](https://drive.google.com/file/d/1t1uhKbOX0oOuoUdVrPoII3SIbRqqTlVN/view?usp=sharing)  
