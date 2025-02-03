@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-01-19 01:25:54 by Eclipse SUMO netedit Version 1.21.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="b22293" lane="523141071_0" startPos="62.42" endPos="72.42"/>
+    <busStop id="b22294" lane="494822052#0_0" startPos="56.48" endPos="66.48"/>
+    <busStop id="b22295" lane="522941401#3_0" startPos="123.68" endPos="133.68"/>
+    <busStop id="b22296" lane="494822052#2_0" startPos="20.00" endPos="90.00"/>
+    <busStop id="b22297" lane="522941401#2_0" startPos="52.94" endPos="62.94"/>
+    <busStop id="b22298" lane="522941402_0" startPos="92.89" endPos="102.89"/>
+    <busStop id="b22301" lane="522941405#1_0" startPos="107.94" endPos="117.94"/>
+    <busStop id="b22302" lane="277249194#2_0" startPos="48.29" endPos="58.29"/>
+    <busStop id="b22307" lane="-522813048#0_1" startPos="17.98" endPos="27.98"/>
+    <busStop id="b22308" lane="523141072#1_1" startPos="36.44" endPos="46.44"/>
+    <busStop id="b22309" lane="-523141072#2_1" startPos="45.91" endPos="55.91"/>
+    <busStop id="b22378" lane="277249197#0_0" startPos="103.83" endPos="113.83"/>
+    <busStop id="b22422" lane="37400377#3_0" startPos="43.87" endPos="53.87"/>
+    <busStop id="b22435" lane="37400377#10_0" startPos="64.95" endPos="74.95"/>
+    <busStop id="b22449" lane="37402629#1_0" startPos="40.18" endPos="50.18"/>
+    <busStop id="b22462" lane="37402629#2_0" startPos="73.21" endPos="83.21"/>
+    <busStop id="b22528" lane="522813029#4_0" startPos="38.64" endPos="48.64"/>
+    <busStop id="b22556" lane="522813048#0_1" startPos="26.44" endPos="36.44"/>
+    <busStop id="b22858" lane="-370139895_0" startPos="188.84" endPos="197.84"/>
+    <busStop id="b22862" lane="-522813048#0_1" startPos="32.55" endPos="42.55"/>
+    <busStop id="b22867" lane="-37402629#0_0" startPos="18.59" endPos="28.59"/>
+    <busStop id="b22871" lane="-182205795#4_0" startPos="8.76" endPos="18.76"/>
+    <busStop id="b22876" lane="1193442921#1_0" startPos="197.59" endPos="207.59"/>
+    <busStop id="b22880" lane="522813047#0_0" startPos="16.84" endPos="26.84"/>
+    <busStop id="b22889" lane="522813047#4_0" startPos="23.31" endPos="33.31"/>
+    <busStop id="b22893" lane="-37400377#0_0" startPos="103.08" endPos="113.08"/>
+    <busStop id="b22911" lane="-494822055#0_0" startPos="102.19" endPos="112.19"/>
+    <busStop id="b37501" lane="-37400377#7_0" startPos="0.17" endPos="10.00"/>
+</additional>

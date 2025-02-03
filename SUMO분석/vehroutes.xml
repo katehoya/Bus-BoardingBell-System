@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-01-11 17:53:29 by Eclipse SUMO sumo Version 1.21.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="C:\Users\82106\Sumo\2025-01-11-17-53-21\osm.net.xml.gz"/>
+        <route-files value="C:\Users\82106\Sumo\2025-01-11-17-53-21\trips.trips.xml"/>
+        <additional-files value="C:\Users\82106\Sumo\2025-01-11-17-53-21\osm_stops.add.xml"/>
+    </input>
+
+    <output>
+        <vehroute-output value="C:\Users\82106\Sumo\2025-01-11-17-53-21\vehroutes.xml"/>
+        <stop-output value="C:\Users\82106\Sumo\2025-01-11-17-53-21\stopinfos.xml"/>
+    </output>
+
+    <time>
+        <begin value="0.0"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-interval value="0"/>
+    </routing>
+
+    <report>
+        <aggregate-warnings value="5"/>
+        <error-log value="C:\Users\82106\Sumo\2025-01-11-17-53-21\trips.trips.xml.errorlog"/>
+        <no-step-log value="true"/>
+    </report>
+
+</sumoConfiguration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="0_subway_320:0" type="pt_subway" depart="15.00" departLane="0" arrival="65.00">
+        <route edges="951688080"/>
+    </vehicle>
+
+    <vehicle id="1_subway_326:0" type="pt_subway" depart="383.00" departLane="0" arrival="433.00">
+        <route edges="391358773"/>
+    </vehicle>
+
+</routes>
